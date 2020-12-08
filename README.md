@@ -18,8 +18,10 @@ Filter the users by at least one property. - When you click find nationalities a
 It is important to note that if you do the filter, it will show only those cards but they will all change when you refresh page. This is due to the fact that we are making an API call everytime the page refreshes. However, this was not an issue when I had a JSON file that had all the employees and did not change which would be more realistic in a real world application so I do not think this would be considered a bug.
 
 ## Questions
-For more information please contact me using my email.
+For more information please contact me using my [email](keremukaraman@gmail.com).
 
-The link for the react directory repo can be found here.
+The link for the react directory repo can be found [here](https://github.com/KKaraman/reactUserDirectory).
 
-If you liked this, you can see my other repositories at my GitHub profile.
+The link for the kkreactdirectory heroku app can be found [here](https://kkreactdirectory.herokuapp.com/).
+
+If you liked this, you can see my other repositories at my [GitHub profile](https://github.com/KKaraman).
