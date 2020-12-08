@@ -1,6 +1,6 @@
 # reactUserDirectory
 Employee Tracker Screenshot
-
+https://user-images.githubusercontent.com/68077734/101436948-c688ac00-38d4-11eb-980d-1ab93325dca0.png
 
 The image shows 2 of the 10 identical cards that show up when you launch the react page. The 10 images are gathered from the RandomAPI call and are updated everytime the page is refreshed.
 
