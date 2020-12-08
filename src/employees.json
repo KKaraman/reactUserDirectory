@@ -1,0 +1,338 @@
+[
+  {
+    "gender": "female",
+    "name": {
+      "title": "Miss",
+      "first": "Lee",
+      "last": "Van Bekkum"
+    },
+    "location": {
+      "street": {
+        "number": 1684,
+        "name": "De Molenstreng"
+      },
+      "city": "Hollandscheveld",
+      "state": "Friesland",
+      "country": "Netherlands",
+      "postcode": 82619,
+      "coordinates": {
+        "latitude": "45.5887",
+        "longitude": "35.4367"
+      },
+      "timezone": {
+        "offset": "-3:00",
+        "description": "Brazil, Buenos Aires, Georgetown"
+      }
+    },
+    "email": "lee.vanbekkum@example.com",
+    "login": {
+      "uuid": "8b152553-c348-4d09-97ae-fc7b2bad804a",
+      "username": "tinyzebra797",
+      "password": "novifarm",
+      "salt": "msH1bKLD",
+      "md5": "fccbdbb883ced4493a134f6f8e8fe348",
+      "sha1": "63f5356195fc7d6ba755d13602a3adacbd0a1664",
+      "sha256": "60db6017435c3a5594941a7faea94f41225a0dd398e406104a46239cccc69d21"
+    },
+    "dob": {
+      "date": "1971-03-12T21:59:53.903Z",
+      "age": 49
+    },
+    "registered": {
+      "date": "2014-11-27T19:49:26.031Z",
+      "age": 6
+    },
+    "phone": "(668)-502-6548",
+    "cell": "(122)-546-3272",
+    "id": {
+      "name": "BSN",
+      "value": "69137451"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/15.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/15.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/15.jpg"
+    },
+    "nat": "NL"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Ms",
+      "first": "Jaya",
+      "last": "Berg"
+    },
+    "location": {
+      "street": {
+        "number": 1831,
+        "name": "Kortebaan"
+      },
+      "city": "Nieuw Millingen",
+      "state": "Noord-Holland",
+      "country": "Netherlands",
+      "postcode": 87628,
+      "coordinates": {
+        "latitude": "3.2042",
+        "longitude": "-34.7536"
+      },
+      "timezone": {
+        "offset": "-7:00",
+        "description": "Mountain Time (US & Canada)"
+      }
+    },
+    "email": "jaya.berg@example.com",
+    "login": {
+      "uuid": "d23487a4-4b4a-4f25-b782-cd60f22f9add",
+      "username": "silvertiger773",
+      "password": "doughboy",
+      "salt": "2qnL8Agw",
+      "md5": "48671457304a9ced5e959cc358a4bb0c",
+      "sha1": "f90be8b6b0f0869292d7029cd925d7b0e3573c0e",
+      "sha256": "0b5f02b5432b164afe33d48517492b027ba12da6d40cb0a84f553c19be77503d"
+    },
+    "dob": {
+      "date": "1946-08-24T22:03:14.686Z",
+      "age": 74
+    },
+    "registered": {
+      "date": "2014-01-28T05:17:23.496Z",
+      "age": 6
+    },
+    "phone": "(446)-452-5419",
+    "cell": "(570)-188-9469",
+    "id": {
+      "name": "BSN",
+      "value": "79920703"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/28.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/28.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/28.jpg"
+    },
+    "nat": "NL"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Maurice",
+      "last": "May"
+    },
+    "location": {
+      "street": {
+        "number": 8803,
+        "name": "North Street"
+      },
+      "city": "Chichester",
+      "state": "Staffordshire",
+      "country": "United Kingdom",
+      "postcode": "FP61 5NS",
+      "coordinates": {
+        "latitude": "-43.5071",
+        "longitude": "-102.2607"
+      },
+      "timezone": {
+        "offset": "+1:00",
+        "description": "Brussels, Copenhagen, Madrid, Paris"
+      }
+    },
+    "email": "maurice.may@example.com",
+    "login": {
+      "uuid": "9f6154ce-b0a4-477a-a938-62f9c12ddf6a",
+      "username": "angryduck710",
+      "password": "mmmm",
+      "salt": "Op84U5z8",
+      "md5": "88d0f21839b7d171fd3b700688dc38b5",
+      "sha1": "894d4acc6814a978141011e4c42af9bc08265e7b",
+      "sha256": "e91dc6f29796f2214fe1227b00c7d73fbbe3c034feb415ba1091ca83e0b43f76"
+    },
+    "dob": {
+      "date": "1962-11-14T18:47:53.362Z",
+      "age": 58
+    },
+    "registered": {
+      "date": "2009-11-02T23:45:10.201Z",
+      "age": 11
+    },
+    "phone": "015242 46995",
+    "cell": "0721-035-750",
+    "id": {
+      "name": "NINO",
+      "value": "CT 89 84 18 G"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/86.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/86.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/86.jpg"
+    },
+    "nat": "GB"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "Mrs",
+      "first": "Marlene",
+      "last": "Egeberg"
+    },
+    "location": {
+      "street": {
+        "number": 1068,
+        "name": "Røahagan"
+      },
+      "city": "Årås",
+      "state": "Aust-Agder",
+      "country": "Norway",
+      "postcode": "0624",
+      "coordinates": {
+        "latitude": "72.9028",
+        "longitude": "83.9715"
+      },
+      "timezone": {
+        "offset": "-9:00",
+        "description": "Alaska"
+      }
+    },
+    "email": "marlene.egeberg@example.com",
+    "login": {
+      "uuid": "ff30c159-0a97-4e83-96a4-fece6f903a56",
+      "username": "happyostrich604",
+      "password": "hillary",
+      "salt": "cI14m58b",
+      "md5": "d831014e6b0917263266206fcbb04128",
+      "sha1": "0f9cfea1e9e04f8f7aeae166ca52160aeb0d756b",
+      "sha256": "465f15f6756075044766de885704ad3fac7e714e461a9e1e3df0b05617dec913"
+    },
+    "dob": {
+      "date": "1958-05-09T16:54:55.917Z",
+      "age": 62
+    },
+    "registered": {
+      "date": "2004-02-13T07:29:01.245Z",
+      "age": 16
+    },
+    "phone": "83037562",
+    "cell": "95705662",
+    "id": {
+      "name": "FN",
+      "value": "09055845422"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/women/37.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/women/37.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/women/37.jpg"
+    },
+    "nat": "NO"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Monsieur",
+      "first": "Bernhard",
+      "last": "Duval"
+    },
+    "location": {
+      "street": {
+        "number": 9815,
+        "name": "Rue Dumenge"
+      },
+      "city": "Oberweningen",
+      "state": "Fribourg",
+      "country": "Switzerland",
+      "postcode": 5632,
+      "coordinates": {
+        "latitude": "66.3030",
+        "longitude": "75.3232"
+      },
+      "timezone": {
+        "offset": "-6:00",
+        "description": "Central Time (US & Canada), Mexico City"
+      }
+    },
+    "email": "bernhard.duval@example.com",
+    "login": {
+      "uuid": "dca139d4-51a1-4869-8c12-95ef369cc040",
+      "username": "bigfrog368",
+      "password": "dillon",
+      "salt": "8VaJxTCP",
+      "md5": "4aa69f3979baa6e8b004bbcae4ab297f",
+      "sha1": "c5833e059a86f0301048a2ddd52451eebf58cbe5",
+      "sha256": "00118b0fa8b47f05144a87ba8cff52a90f24505736b682388a5781b3c75c64d4"
+    },
+    "dob": {
+      "date": "1988-12-29T02:19:25.056Z",
+      "age": 32
+    },
+    "registered": {
+      "date": "2019-01-01T18:58:10.122Z",
+      "age": 1
+    },
+    "phone": "079 709 33 37",
+    "cell": "078 622 80 25",
+    "id": {
+      "name": "AVS",
+      "value": "756.0776.3800.39"
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/25.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/25.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/25.jpg"
+    },
+    "nat": "CH"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "Mr",
+      "first": "Batur",
+      "last": "Abanuz"
+    },
+    "location": {
+      "street": {
+        "number": 1287,
+        "name": "Filistin Cd"
+      },
+      "city": "Elazığ",
+      "state": "Elazığ",
+      "country": "Turkey",
+      "postcode": 72325,
+      "coordinates": {
+        "latitude": "65.9393",
+        "longitude": "158.0086"
+      },
+      "timezone": {
+        "offset": "-5:00",
+        "description": "Eastern Time (US & Canada), Bogota, Lima"
+      }
+    },
+    "email": "batur.abanuz@example.com",
+    "login": {
+      "uuid": "0df0f527-aff8-4885-b15c-8e120dc9e44a",
+      "username": "lazyelephant302",
+      "password": "handball",
+      "salt": "Ajy1kUmc",
+      "md5": "09e9bd96a6ff6a16136ab1e4eda04de8",
+      "sha1": "f7f8e9868c4da7d5665a3a1a5ebd9459ffd7a557",
+      "sha256": "98daec70438c31abece429c294ce933aacb23f57e8fd67ef25ceca93bb115e23"
+    },
+    "dob": {
+      "date": "1986-10-27T17:12:57.579Z",
+      "age": 34
+    },
+    "registered": {
+      "date": "2015-11-23T08:22:55.669Z",
+      "age": 5
+    },
+    "phone": "(894)-742-2480",
+    "cell": "(306)-870-6335",
+    "id": {
+      "name": "",
+      "value": null
+    },
+    "picture": {
+      "large": "https://randomuser.me/api/portraits/men/97.jpg",
+      "medium": "https://randomuser.me/api/portraits/med/men/97.jpg",
+      "thumbnail": "https://randomuser.me/api/portraits/thumb/men/97.jpg"
+    },
+    "nat": "TR"
+  }
+]
